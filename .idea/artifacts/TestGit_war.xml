@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestGit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TestGit</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TestGit-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TestGit:war exploded" />
+    </root>
+  </artifact>
+</component>
