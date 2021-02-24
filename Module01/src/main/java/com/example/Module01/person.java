@@ -7,5 +7,6 @@ package com.example.Module01;
  * @ version: 1.0
  */
 public class person {
-
+    private int a=10;//a
+    private String str;
 }
