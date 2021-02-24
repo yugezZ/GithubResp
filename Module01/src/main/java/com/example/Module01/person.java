@@ -9,4 +9,5 @@ package com.example.Module01;
 public class person {
     private int a=10;//a
     private String str;
+    private  Integer ss;
 }
